@@ -14,7 +14,7 @@
 
 <footer>
   <h5>
-    &copy; <a href="https://yarnwebdesign-ninjas.com">Ninjatech design</a> ||
+    &copy; <a href="https://webdesign-ninjas.com">Ninjatech design</a> ||
     <a href="https://www.who.int/gpsc/clean_hands_protection/en/">
       Picture Sources</a
     >
