@@ -552,7 +552,7 @@ var app = (function () {
     			t3 = space();
     			footer = element("footer");
 
-    			footer.innerHTML = `<h5>© <a href="https://yarnwebdesign-ninjas.com">Ninjatech design</a> ||
+    			footer.innerHTML = `<h5>© <a href="https://webdesign-ninjas.com">Ninjatech design</a> ||
     <a href="https://www.who.int/gpsc/clean_hands_protection/en/">Picture Sources</a>
     -
     <a href="https://freesound.org/people/metrostock99/sounds/345086">Sound Source</a></h5>`;
